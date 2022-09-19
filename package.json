@@ -1,0 +1,11 @@
+{
+ "name": "editor",
+ "version": "1.0.0",
+ "main": "editor.js",
+ "author": "Floricel Gabriel-Costin",
+ "license": "No License",
+ "private": true,
+ "dependencies": {
+  "suneditor": "^2.43.14"
+ }
+}
